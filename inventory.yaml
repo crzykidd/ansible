@@ -1,0 +1,10 @@
+ungrouped:
+  hosts:
+ubuntu:
+  hosts:
+    ansible.home.arpa:
+    docker12.home.arpa:
+docker:
+  hosts:
+    ansible.home.arpa:
+    docker12.home.arpa:
